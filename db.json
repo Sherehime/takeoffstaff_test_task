@@ -1,0 +1,30 @@
+{
+  "contacts": [
+    {
+      "name": "Игорь",
+      "phone": "23423434234",
+      "email": "igor@mail.com",
+      "id": 1
+    },
+    {
+      "name": "Юля",
+      "phone": "23423434234",
+      "email": "julia@kik.ru",
+      "id": 4
+    },
+    {
+      "name": "Екатерина ",
+      "phone": "89787880054",
+      "email": "jon_miller_j@mail.ru",
+      "id": 5
+    }
+  ],
+  "users": [
+    {
+      "id": 1,
+      "login": "admin",
+      "password": "admin",
+      "token": "qazxswqazxswqazxsw123"
+    }
+  ]
+}
